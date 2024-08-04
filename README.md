@@ -2,7 +2,7 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
+Feel free donate to author EVM address
 
 EVM :
 
@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/salsa1515/perc20-mint.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd perc20-mint
 ```
 
 ### 2. Install Dependency
@@ -78,5 +78,3 @@ by :
 github : [Mnuralim](https://github.com/Mnuralim)
 twitter : @Izzycracker04
 telegram : @fitriay19
-
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
